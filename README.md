@@ -19,6 +19,9 @@ Here are some ideas to get you started:
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Yaseen549)
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pratikbaid3" alt="pratikbaid3" /> </p> 
+
 <!--
 <img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=Yaseen549&theme=<THEME_NAME>" />
 
