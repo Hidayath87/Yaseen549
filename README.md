@@ -19,6 +19,12 @@ Here are some ideas to get you started:
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Yaseen549)
 
 
+
+### Connect with me on - 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/yaseen59/) 
+[<img src ="https://img.shields.io/badge/Gmail-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:fantasticyaseenshariff@gmail.com)
+
+
 <!--
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=Yaseen549&theme=<THEME_NAME>" />
