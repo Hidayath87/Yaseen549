@@ -16,13 +16,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" alt="Coder GIF" width="300" height="250">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Yasen549" alt="Yaseen549" /> </p>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Yaseen549)
-
-<img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" alt="Coder GIF" width="300" height="250">
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yaseen549&hide=TeX&layout=compact&count_private=true)
@@ -44,7 +42,7 @@ Here are some ideas to get you started:
 ![MySQL](https://img.shields.io/badge/-MySQL-pink?style=for-the-badge&logo=mysql)
 
 
-###### Languages
+### Languages
 ![Python](https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=Python)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=for-the-badge&logo=java)
 ![Dart](https://img.shields.io/badge/-Dart-blue?style=for-the-badge&logo=Dart)
@@ -52,7 +50,7 @@ Here are some ideas to get you started:
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c)
 ![MySql](https://img.shields.io/badge/-MySql-FDEDD9?style=for-the-badge&logo=MySql)
 
-###### Tools
+### Tools
 ![Netlify](https://img.shields.io/badge/-Netlify-black?style=for-the-badge&logo=Netlify)
 ![Vercel](https://img.shields.io/badge/-Vercel-blue?style=for-the-badge&logo=Vercel)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku)
@@ -64,15 +62,3 @@ Here are some ideas to get you started:
 ![Anaconda](https://img.shields.io/badge/-Anaconda-181717?style=for-the-badge&logo=anaconda)
 
 
-
-
-
-<!--
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=Yaseen549&theme=<THEME_NAME>" />
-
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Yasen549&repo=Yaseen549)
-
-![counter](https://https://pipedream.com/@Yaseen549.m.pipedream.net)
-
--->
