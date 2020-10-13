@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/<GIF_NAME>.gif" width="30px">
 
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=Yaseen549&theme=<THEME_NAME>" />
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Yasen549&repo=Yaseen549)
 
 ![counter](https://[YourEndpoint].m.pipedream.net)
