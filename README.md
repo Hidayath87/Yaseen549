@@ -16,12 +16,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" alt="Coder GIF" width="300" height="250">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Yasen549" alt="Yaseen549" /> </p>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Yaseen549)
+
+<img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" alt="Coder GIF" width="300" height="250">
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yaseen549&hide=TeX&layout=compact&count_private=true)
 
