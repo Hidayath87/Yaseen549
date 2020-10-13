@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Yasen549&repo=Yaseen549)
 
-![counter](https://[YourEndpoint].m.pipedream.net)
+![counter](https://https://pipedream.com/@Yaseen549.m.pipedream.net)
 <!--
 -->
