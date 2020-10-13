@@ -49,6 +49,8 @@ I am Yaseen, welcome to my GitHub Repository, I'm a Developer, Programmer, I can
 ![Python](https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=Python)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=for-the-badge&logo=java)
 ![Dart](https://img.shields.io/badge/-Dart-blue?style=for-the-badge&logo=Dart)
+![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=TypeScript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-blue?style=for-the-badge&logo=JavaScript)
 ![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c)
 ![MySql](https://img.shields.io/badge/-MySql-FDEDD9?style=for-the-badge&logo=MySql)
