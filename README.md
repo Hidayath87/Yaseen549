@@ -1,8 +1,9 @@
 ### Hi there 👋
 
+<!--
+
 **Yaseen549/Yaseen549** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<!--
 Here are some ideas to get you started:
 ->
 - 🔭 I’m currently working on Python...
@@ -17,6 +18,9 @@ Here are some ideas to get you started:
 -->
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Yaseen549)
+
+<img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/<GIF_NAME>.gif" width="30px">
+
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Yasen549&repo=Yaseen549)
 
