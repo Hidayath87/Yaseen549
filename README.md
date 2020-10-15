@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Yaseen, welcome to my GitHub Repository, I'm a Developer, Programmer, I can also do Game Designing and Development, you can also check my profile links for more that are given below.
+I am Yaseen, welcome to my GitHub Repository, I'm a Android & iOS Developer, Programmer, I can also do Game Designing and Development, you can also check my profile links for more that are given below.
 
 
 <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" alt="Coder GIF" width="300" height="250">
