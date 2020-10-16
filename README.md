@@ -38,6 +38,7 @@ I am Yaseen, welcome to my GitHub Repository, I'm a Android & iOS Developer, Pro
 ### Frameworks and Stack
 ![Flutter](https://img.shields.io/badge/-Flutter-blue?style=for-the-badge&logo=flutter)
 ![Android](https://img.shields.io/badge/-Android-green?style=for-the-badge&logo=android)
+![iOS](https://img.shields.io/badge/-iOS-C0C0C0?style=for-the-badge&logo=apple)
 ![Flask](https://img.shields.io/badge/-Flask-blue?style=for-the-badge&logo=Flask)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
