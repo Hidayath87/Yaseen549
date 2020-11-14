@@ -67,5 +67,14 @@ I am Yaseen, welcome to my GitHub Repository, I'm a Android & iOS Developer, Pro
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&logo=gitlab)
 ![Firebase](https://img.shields.io/badge/-Firebase-181717?style=for-the-badge&logo=firebase)
 ![Anaconda](https://img.shields.io/badge/-Anaconda-181717?style=for-the-badge&logo=anaconda)
+![Eclipse](https://img.shields.io/badge/-Eclipse-430098?style=for-the-badge&logo=Eclipse)
+![Android](https://img.shields.io/badge/-AndroidStudio-green?style=for-the-badge&logo=Android)
+
+### Thank you
+
+[![ForTheBadge winter-is-coming](http://ForTheBadge.com/images/badges/winter-is-coming.svg)](http://ForTheBadge.com)
+
+![](https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif)
+
 
 
