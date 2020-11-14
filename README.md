@@ -70,11 +70,9 @@ I am Yaseen, welcome to my GitHub Repository, I'm a Android & iOS Developer, Pro
 ![Eclipse](https://img.shields.io/badge/-Eclipse-430098?style=for-the-badge&logo=Eclipse)
 ![Android](https://img.shields.io/badge/-AndroidStudio-green?style=for-the-badge&logo=Android)
 
-### Thank you
+### Being
 
-[![ForTheBadge winter-is-coming](http://ForTheBadge.com/images/badges/winter-is-coming.svg)](http://ForTheBadge.com)
-
-![](https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif)
+![](https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif)
 
 
 
