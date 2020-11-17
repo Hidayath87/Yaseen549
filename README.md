@@ -20,13 +20,8 @@ Here are some ideas to get you started:
 I am Yaseen, welcome to my GitHub Repository, I'm a Android & iOS Developer, Programmer, I can also do Game Designing and Development, you can also check my profile links for more that are given below.
 
 
-
-<div>
   <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" alt="Coder GIF" width="300" height="250">
-</div>
-<div style="decoration: none;" >
-  <img src="https://media.giphy.com/media/dTGjQFZBf62Cs2IaCl/giphy.gif" alt="Coder GIF" width="300" height="300">
-</div>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Yasen549" alt="Yaseen549" /> </p>
