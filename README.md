@@ -24,7 +24,7 @@ I am Yaseen, welcome to my GitHub Repository, I'm a Android & iOS Developer, Pro
 <div>
   <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" alt="Coder GIF" width="300" height="250">
 </div>
-<div>
+<div style="decoration: none;" >
   <img src="https://media.giphy.com/media/dTGjQFZBf62Cs2IaCl/giphy.gif" alt="Coder GIF" width="300" height="300">
 </div>
 
