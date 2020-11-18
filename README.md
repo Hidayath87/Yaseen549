@@ -31,11 +31,25 @@ I am Yaseen, welcome to my GitHub Repository, I'm a Android & iOS Developer, Pro
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yaseen549&hide=TeX&layout=compact&count_private=true)
 
-
 ### Connect with me on - 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/yaseen59/) 
-[<img src ="https://img.shields.io/badge/Gmail-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:fantasticyaseenshariff@gmail.com)
-[<img src ="https://img.shields.io/badge/My_Website-%23E4405F.svg?&style=for-the-badge&logo=web&logoColor=white">](https://yaseen.netlify.com)
+
+<!-- [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/yaseen59/) -->
+[<img src="https://img.shields.io/badge/-LinkedIn-000000?style=social&logo=linkedin" />](https://www.linkedin.com/in/yaseen59/) |
+[<img src="https://img.shields.io/badge/-Gmail-000000?style=social&logo=gmail" />](mailto:fantasticyaseenshariff@gmail.com) |
+[<img src="https://img.shields.io/badge/-Twitter-000000?style=social&logo=twitter" />](https://twitter.com/yaseen_sheriff) |
+[<img src="https://img.shields.io/badge/-YouTube-000000?style=social&logo=youtube" />](https://www.youtube.com/c/SyberCode) |
+<br>
+<!-- ![Linkedin](https://img.shields.io/badge/-LinkedIn-000000?style=social&logo=linkedin)
+![Gmail](https://img.shields.io/badge/-Gmail-000000?style=social&logo=gmail) -->
+<!-- ![World](https://img.shields.io/badge/-World-000000?style=social&logo=world) -->
+
+<!-- [<img src ="https://img.shields.io/badge/Gmail-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:fantasticyaseenshariff@gmail.com) -->
+
+[<img src ="https://img.shields.io/badge/My_Website-%23E4405F.svg?&style=for-the-badge&logo=world&logoColor=white">](https://yaseen.netlify.com)
+
+
+
+
 
 
 ### Frameworks and Stack
@@ -47,6 +61,13 @@ I am Yaseen, welcome to my GitHub Repository, I'm a Android & iOS Developer, Pro
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
 ![MySQL](https://img.shields.io/badge/-MySQL-pink?style=for-the-badge&logo=mysql)
+
+### Gaming Engines
+![Unity3D](https://img.shields.io/badge/-Unity3D-black?style=for-the-badge&logo=unity)
+![UnrealEngine5](https://img.shields.io/badge/-UnrealEngine5-orange?style=for-the-badge&logo=unrealengine5)
+![Construct](https://img.shields.io/badge/-Construct-000000?style=for-the-badge&logo=construct)
+![Godot](https://img.shields.io/badge/-Godot-000000?style=for-the-badge&logo=godot)
+
 
 
 ### Languages
