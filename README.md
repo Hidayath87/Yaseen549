@@ -99,7 +99,6 @@ I am Yaseen, welcome to my GitHub Repository, I'm a Android & iOS Developer, Pro
 ![Android](https://img.shields.io/badge/-AndroidStudio-green?style=for-the-badge&logo=Android)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-2684FF?style=for-the-badge&logo=bitbucket)
 
-### Being
 
 <!-- ![](https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif) -->
 
