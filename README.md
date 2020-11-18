@@ -97,10 +97,11 @@ I am Yaseen, welcome to my GitHub Repository, I'm a Android & iOS Developer, Pro
 ![Anaconda](https://img.shields.io/badge/-Anaconda-181717?style=for-the-badge&logo=anaconda)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-430098?style=for-the-badge&logo=Eclipse)
 ![Android](https://img.shields.io/badge/-AndroidStudio-green?style=for-the-badge&logo=Android)
+![BitBucket](https://img.shields.io/badge/-BitBucket-2684FF?style=for-the-badge&logo=bitbucket)
 
 ### Being
 
-![](https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif)
+<!-- ![](https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif) -->
 
 
 
