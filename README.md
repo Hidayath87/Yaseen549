@@ -38,6 +38,7 @@ I am Yaseen, welcome to my GitHub Repository, I'm a Android & iOS Developer, Pro
 [<img src="https://img.shields.io/badge/-Gmail-000000?style=social&logo=gmail" />](mailto:fantasticyaseenshariff@gmail.com) 
 [<img src="https://img.shields.io/badge/-Twitter-000000?style=social&logo=twitter" />](https://twitter.com/yaseen_sheriff) 
 [<img src="https://img.shields.io/badge/-YouTube-000000?style=social&logo=youtube" />](https://www.youtube.com/c/SyberCode) 
+[<img src="https://img.shields.io/badge/-Pinterest-000000?style=social&logo=pinterest" />](https://in.pinterest.com/Yaseen95/) 
 <br>
 <!-- ![Linkedin](https://img.shields.io/badge/-LinkedIn-000000?style=social&logo=linkedin)
 ![Gmail](https://img.shields.io/badge/-Gmail-000000?style=social&logo=gmail) -->
