@@ -26,7 +26,7 @@ I am Yaseen, welcome to my GitHub Repository, I'm a Android & iOS Developer, Pro
 
 
 
-<!--
+
 <table style="border:0px;">
 	<tr>
 		<td>
@@ -37,10 +37,9 @@ I am Yaseen, welcome to my GitHub Repository, I'm a Android & iOS Developer, Pro
 		</td>
 	</tr>
 </table>
--->
-<img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" alt="Coder GIF" width="300" height="250">  <img src="https://komarev.com/ghpvc/?username=Yasen549" alt="Yaseen549" />
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Yaseen549) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yaseen549&hide=TeX&layout=compact&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yaseen549&hide=TeX&layout=compact&count_private=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=Yaseen549) 
 
 
 
