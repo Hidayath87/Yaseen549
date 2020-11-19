@@ -36,13 +36,13 @@ I am Yaseen, welcome to my GitHub Repository, I'm a Android & iOS Developer, Pro
 <!-- [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/yaseen59/) -->
 [<img src="https://img.shields.io/badge/-LinkedIn-000000?style=social&logo=linkedin" />](https://www.linkedin.com/in/yaseen59/) 
 [<img src="https://img.shields.io/badge/-Gmail-000000?style=social&logo=gmail" />](mailto:fantasticyaseenshariff@gmail.com) 
-[<img src="https://img.shields.io/badge/-Twitter-000000?style=social&logo=twitter" />](https://twitter.com/yaseen_sheriff) 
 [<img src="https://img.shields.io/badge/-YouTube-000000?style=social&logo=youtube" />](https://www.youtube.com/c/SyberCode) 
 [<img src="https://img.shields.io/badge/-Pinterest-000000?style=social&logo=pinterest" />](https://in.pinterest.com/Yaseen95/) 
-[<img src="https://img.shields.io/badge/-Dribbble-000000?style=social&logo=dribbble" />](https://dribbble.com/Yaseen59) 
-[<img src="https://img.shields.io/badge/-Behance-000000?style=social&logo=behance" />](https://www.behance.net/yaseenshariff)
 [<img src="https://img.shields.io/badge/-Medium-000000?style=social&logo=medium" />](https://medium.com/@yaseen59)
 [<img src="https://img.shields.io/badge/-Instagram-000000?style=social&logo=instagram" />](https://www.instagram.com/syberstar_picture_studio/)
+[<img src="https://img.shields.io/badge/-Twitter-000000?style=social&logo=twitter" />](https://twitter.com/yaseen_sheriff) 
+[<img src="https://img.shields.io/badge/-Dribbble-000000?style=social&logo=dribbble" />](https://dribbble.com/Yaseen59) 
+[<img src="https://img.shields.io/badge/-Behance-000000?style=social&logo=behance" />](https://www.behance.net/yaseenshariff)
 <br>
 
 <!-- ![Linkedin](https://img.shields.io/badge/-LinkedIn-000000?style=social&logo=linkedin)
