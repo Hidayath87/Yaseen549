@@ -38,10 +38,11 @@ I am Yaseen, welcome to my GitHub Repository, I'm a Android & iOS Developer, Pro
 	</tr>
 </table>
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=Yaseen549) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yaseen549&hide=TeX&layout=compact&count_private=true)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Yaseen549)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yaseen549&hide=TeX&layout=compact&count_private=true)
+
+
 
 ### Connect with me on - 
 
@@ -119,14 +120,12 @@ I am Yaseen, welcome to my GitHub Repository, I'm a Android & iOS Developer, Pro
 <table style="border:0px;">
 	<tr>
 		<td>
-		<b>Being</b>
-
+			<h2>Being</h2>
 		</td>
 		<td>
-	      		<img src="https://github.com/Yaseen549/Yaseen549/blob/main/pro.gif" alt="Coder GIF" width="150" height="100">
+	      		<img src="https://media.giphy.com/media/i0EYHNbxPMeSWznjSH/giphy.gif" alt="Coder GIF" width="150" height="100">
 		</td>
 	</tr>
 </table>
-
 
 
