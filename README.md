@@ -115,8 +115,8 @@ I am Yaseen, welcome to my GitHub Repository, I'm a Android & iOS Developer, Pro
 ![Android](https://img.shields.io/badge/-AndroidStudio-green?style=for-the-badge&logo=Android)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-2684FF?style=for-the-badge&logo=bitbucket)
 
-
-<!-- ![](https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif) -->
+### Being
+<img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif" alt="Coder GIF" width="150" height="100">
 
 
 
