@@ -26,7 +26,7 @@ I am Yaseen, welcome to my GitHub Repository, I'm a Android & iOS Developer, Pro
 <table style="border:0px;">
 	<tr>
 		<td>
-			<img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" alt="Coder GIF" width="300" height="250">
+		<img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" alt="Coder GIF" width="300" height="250">
 		</td>
 		<td>
       <p align="left"> <img src="https://komarev.com/ghpvc/?username=Yasen549" alt="Yaseen549" /> </p>
@@ -64,10 +64,7 @@ I am Yaseen, welcome to my GitHub Repository, I'm a Android & iOS Developer, Pro
 
 ### My Portfolio- 
 
-[<img src="https://img.shields.io/badge/Check_Out-My_Website-brightgreen" />](https://yaseen.netlify.com) 
-
-
-
+[<img src="https://img.shields.io/badge/Check_Out-My_Website-brightgreen" />](https://yaseen.netlify.com)
 
 
 ### Frameworks and Stack
