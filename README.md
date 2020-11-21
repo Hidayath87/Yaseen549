@@ -56,10 +56,10 @@ I am Yaseen, welcome to my GitHub Repository, I'm a Android & iOS Developer, Pro
 [<img src="https://img.shields.io/badge/-Reddit-000000?style=social&logo=reddit" />](https://www.reddit.com/user/Yaseen549)
 
 <!--[![Discord](https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/pkKsNfJT) -->
-<br>
+
 
 <!-- ![Linkedin](https://img.shields.io/badge/-LinkedIn-000000?style=social&logo=linkedin)
-![Gmail](https://img.shields.io/badge/-Gmail-000000?style=social&logo=gmail) -->
+     ![Gmail](https://img.shields.io/badge/-Gmail-000000?style=social&logo=gmail) -->
 <!-- ![World](https://img.shields.io/badge/-World-000000?style=social&logo=world) -->
 
 <!-- [<img src ="https://img.shields.io/badge/Gmail-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:fantasticyaseenshariff@gmail.com) -->
