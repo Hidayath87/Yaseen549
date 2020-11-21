@@ -23,10 +23,6 @@ Here are some ideas to get you started:
 
 I am Yaseen, welcome to my GitHub Repository, I'm a Android & iOS Developer, Programmer, I can also do Game Designing and Development, you can also check my profile links for more that are given below.
 
-
-
-
-
 <table style="border:0px;">
 	<tr>
 		<td>
@@ -41,11 +37,6 @@ I am Yaseen, welcome to my GitHub Repository, I'm a Android & iOS Developer, Pro
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Yaseen549)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yaseen549&hide=TeX&layout=compact&count_private=true)
-
-
-
-
-
 
 ### Connect with me on -  
 
@@ -64,11 +55,7 @@ I am Yaseen, welcome to my GitHub Repository, I'm a Android & iOS Developer, Pro
 [<img src="https://img.shields.io/badge/-StackOverflow-000000?style=social&logo=stackoverflow" />](https://stackoverflow.com/users/12053270/)
 [<img src="https://img.shields.io/badge/-Reddit-000000?style=social&logo=reddit" />](https://www.reddit.com/user/Yaseen549)
 
-
-
-
 <!--[![Discord](https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/pkKsNfJT) -->
-
 <br>
 
 <!-- ![Linkedin](https://img.shields.io/badge/-LinkedIn-000000?style=social&logo=linkedin)
@@ -79,11 +66,9 @@ I am Yaseen, welcome to my GitHub Repository, I'm a Android & iOS Developer, Pro
 
 <!-- [<img src ="https://img.shields.io/badge/My_Website-%23E4405F.svg?&style=for-the-badge&logo=world&logoColor=white">](https://yaseen.netlify.com) -->
 
-
 ### My Portfolio- 
 
 [<img src="https://img.shields.io/badge/Check_Out-My_Website-brightgreen" />](https://yaseen.netlify.com)
-
 
 ### Frameworks and Stack
 ![Flutter](https://img.shields.io/badge/-Flutter-blue?style=for-the-badge&logo=flutter)
@@ -102,8 +87,6 @@ I am Yaseen, welcome to my GitHub Repository, I'm a Android & iOS Developer, Pro
 ![Construct 2](https://img.shields.io/badge/-Construct_2-000000?style=for-the-badge&logo=construct)
 ![GodotEngine](https://img.shields.io/badge/-GodotEngine-000000?style=for-the-badge&logo=godotengine)
 
-
-
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-F7F7F7?style=for-the-badge&logo=Python)
 ![Java](https://img.shields.io/badge/-java-F09522?style=for-the-badge&logo=java)
@@ -115,7 +98,6 @@ I am Yaseen, welcome to my GitHub Repository, I'm a Android & iOS Developer, Pro
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=TypeScript)
 ![C++](https://img.shields.io/badge/-C++-00427E?style=for-the-badge&logo=c)
 ![MySql](https://img.shields.io/badge/-MySql-F7F7F7?style=for-the-badge&logo=MySql)
-
 
 ### Tools
 ![Netlify](https://img.shields.io/badge/-Netlify-black?style=for-the-badge&logo=Netlify)
@@ -131,7 +113,6 @@ I am Yaseen, welcome to my GitHub Repository, I'm a Android & iOS Developer, Pro
 ![Eclipse](https://img.shields.io/badge/-Eclipse-430098?style=for-the-badge&logo=Eclipse)
 ![Android](https://img.shields.io/badge/-AndroidStudio-green?style=for-the-badge&logo=Android)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-2684FF?style=for-the-badge&logo=bitbucket)
-
 
 <table>
 	<tr>
