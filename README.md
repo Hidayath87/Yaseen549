@@ -72,14 +72,14 @@ I am Yaseen, welcome to my GitHub Repository, I'm a Android & iOS Developer, Pro
 
 ### Operating Systems
 
-[<img src="https://img.shields.io/badge/-Linux-000000?style=social&logo=linux" />](https://www.linkedin.com/in/yaseen59/) 
-[<img src="https://img.shields.io/badge/-Windows-000000?style=social&logo=windows" />](mailto:fantasticyaseenshariff@gmail.com) 
-[<img src="https://img.shields.io/badge/-Apple-000000?style=social&logo=apple" />](https://www.youtube.com/c/SyberCode) 
+[<img src="https://img.shields.io/badge/-Linux-000000?style=social&logo=linux" />](#)
+[<img src="https://img.shields.io/badge/-Windows-000000?style=social&logo=windows" />](#) 
+[<img src="https://img.shields.io/badge/-Apple-000000?style=social&logo=apple" />](#)
 
 ### Mobile OS
 
-[<img src="https://img.shields.io/badge/-Medium-000000?style=social&logo=android" />](#)
-[<img src="https://img.shields.io/badge/-Instagram-000000?style=social&logo=iOS" />]()
+[<img src="https://img.shields.io/badge/-Android-000000?style=social&logo=android" />](#)
+[<img src="https://img.shields.io/badge/-Apple_iOS-000000?style=social&logo=iOS" />](#)
 
 ### My Portfolio- 
 
