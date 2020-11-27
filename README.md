@@ -57,7 +57,6 @@ I am Yaseen, welcome to my GitHub Repository, I'm a Android & iOS Developer, Pro
 [<img src="https://img.shields.io/badge/-Reddit-000000?style=social&logo=reddit" />](https://www.reddit.com/user/Yaseen549)
 
 
-
 <!--[![Discord](https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/pkKsNfJT) -->
 
 
@@ -68,6 +67,19 @@ I am Yaseen, welcome to my GitHub Repository, I'm a Android & iOS Developer, Pro
 <!-- [<img src ="https://img.shields.io/badge/Gmail-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:fantasticyaseenshariff@gmail.com) -->
 
 <!-- [<img src ="https://img.shields.io/badge/My_Website-%23E4405F.svg?&style=for-the-badge&logo=world&logoColor=white">](https://yaseen.netlify.com) -->
+
+
+
+### Operating Systems
+
+[<img src="https://img.shields.io/badge/-Linux-000000?style=social&logo=linux" />](https://www.linkedin.com/in/yaseen59/) 
+[<img src="https://img.shields.io/badge/-Windows-000000?style=social&logo=windows" />](mailto:fantasticyaseenshariff@gmail.com) 
+[<img src="https://img.shields.io/badge/-Apple-000000?style=social&logo=apple" />](https://www.youtube.com/c/SyberCode) 
+
+### Mobile OS
+
+[<img src="https://img.shields.io/badge/-Medium-000000?style=social&logo=android" />](#)
+[<img src="https://img.shields.io/badge/-Instagram-000000?style=social&logo=iOS" />]()
 
 ### My Portfolio- 
 
@@ -116,6 +128,8 @@ I am Yaseen, welcome to my GitHub Repository, I'm a Android & iOS Developer, Pro
 ![Eclipse](https://img.shields.io/badge/-Eclipse-430098?style=for-the-badge&logo=Eclipse)
 ![Android](https://img.shields.io/badge/-AndroidStudio-green?style=for-the-badge&logo=Android)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-2684FF?style=for-the-badge&logo=bitbucket)
+
+
 
 <table>
 	<tr>
