@@ -76,6 +76,7 @@ I am Yaseen, welcome to my GitHub Repository, I'm a Android & iOS Developer, Pro
 [<img src="https://img.shields.io/badge/-Debian-000000?style=social&logo=debian" />](#) 
 [<img src="https://img.shields.io/badge/-Ubuntu-000000?style=social&logo=ubuntu" />](#)
 [<img src="https://img.shields.io/badge/-Fedora-000000?style=social&logo=fedora" />](#)
+[<img src="https://img.shields.io/badge/-Cent_Os-000000?style=social&logo=centos" />](#)
 [<img src="https://img.shields.io/badge/-Windows-000000?style=social&logo=windows" />](#) 
 [<img src="https://img.shields.io/badge/-Apple-000000?style=social&logo=apple" />](#)
 
