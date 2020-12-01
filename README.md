@@ -1,9 +1,4 @@
-<!-- ### Hi there 👋 -->
-
-<!-- 
-<img src="https://media.giphy.com/media/EEy7Qip0YZ27PPtC7y/giphy.gif" alt="Coder GIF" width="300" height="250">
--->
------------------------------------------------- <img src="https://media.giphy.com/media/kDAw2GnTrhYQa4IpQB/giphy.gif" alt="Coder GIF" width="300" height="250"> -------------------------------------------------
+### Hi there 👋
 
 
 
