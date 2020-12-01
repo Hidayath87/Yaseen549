@@ -4,6 +4,9 @@
 
 <!--
 
+
+<img src="https://media.giphy.com/media/Veq8KumKpSCcfZ71P1/giphy.gif" alt="Coder GIF" width="23" height="23">
+
 **Yaseen549/Yaseen549** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -83,7 +86,6 @@ I am Yaseen, welcome to my GitHub Repository, I'm an Android & iOS Developer, Pr
 -->
 
 
-<img src="https://media.giphy.com/media/Veq8KumKpSCcfZ71P1/giphy.gif" alt="Coder GIF" width="23" height="23">
 
 
 ### My Portfolio- 
