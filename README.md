@@ -144,7 +144,7 @@ I am Yaseen, welcome to my GitHub Repository, I'm an Android & iOS Developer, Pr
 			<h2>Being</h2>
 		</td>
 		<td>
-	      		<img src="https://media.giphy.com/media/i0EYHNbxPMeSWznjSH/giphy.gif" alt="Coder GIF" width="150" height="100"><img src="https://media.giphy.com/media/SA67piPJKOEfXhQiQu/giphy.gif" alt="Coder GIF" width="100" height="100">
+	      		<img src="https://media.giphy.com/media/i0EYHNbxPMeSWznjSH/giphy.gif" alt="Coder GIF" width="150" height="100"><img src="https://media.giphy.com/media/fkTFkvYVz5dmg/giphy.gif" alt="Coder GIF" width="100" height="100">
 		</td>
 	</tr>
 </table>
