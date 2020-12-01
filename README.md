@@ -82,9 +82,13 @@ I am Yaseen, welcome to my GitHub Repository, I'm an Android & iOS Developer, Pr
 [<img src="https://img.shields.io/badge/-Apple_iOS-000000?style=social&logo=iOS" />](#)
 -->
 
+
+<img src="https://media.giphy.com/media/Veq8KumKpSCcfZ71P1/giphy.gif" alt="Coder GIF" width="23" height="23">
+
+
 ### My Portfolio- 
 
-<img src="https://media.giphy.com/media/Veq8KumKpSCcfZ71P1/giphy.gif" alt="Coder GIF" width="23" height="23">[<img src="https://img.shields.io/badge/Check_Out-My_Website-FCE303" />](https://yaseen.netlify.com)<img src="https://media.giphy.com/media/Veq8KumKpSCcfZ71P1/giphy.gif" alt="Coder GIF" width="23" height="23">
+[<img src="https://img.shields.io/badge/Check_Out-My_Website-FCE303" />](https://yaseen.netlify.com)<img src="https://media.giphy.com/media/WtgXxqk77c42xml5JT/giphy.gif" alt="Coder GIF" width="23" height="23">
 
 ### Frameworks and Stack
 ![Flutter](https://img.shields.io/badge/-Flutter-blue?style=for-the-badge&logo=flutter)
