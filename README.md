@@ -2,7 +2,6 @@
 
 
 
-
 <!--
 
 **Yaseen549/Yaseen549** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -85,7 +84,7 @@ I am Yaseen, welcome to my GitHub Repository, I'm an Android & iOS Developer, Pr
 
 ### My Portfolio- 
 
-[<img src="https://img.shields.io/badge/Check_Out-My_Website-brightgreen" />](https://yaseen.netlify.com)
+<img src="https://media.giphy.com/media/Veq8KumKpSCcfZ71P1/giphy.gif" alt="Coder GIF" width="23" height="23">[<img src="https://img.shields.io/badge/Check_Out-My_Website-FCE303" />](https://yaseen.netlify.com)<img src="https://media.giphy.com/media/Veq8KumKpSCcfZ71P1/giphy.gif" alt="Coder GIF" width="23" height="23">
 
 ### Frameworks and Stack
 ![Flutter](https://img.shields.io/badge/-Flutter-blue?style=for-the-badge&logo=flutter)
