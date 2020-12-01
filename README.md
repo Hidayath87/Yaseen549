@@ -1,6 +1,9 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
-
+<!-- 
+<img src="https://media.giphy.com/media/EEy7Qip0YZ27PPtC7y/giphy.gif" alt="Coder GIF" width="300" height="250">
+-->
+----------------------------------------<img src="https://media.giphy.com/media/kDAw2GnTrhYQa4IpQB/giphy.gif" alt="Coder GIF" width="300" height="250">-----------------------------------------
 
 
 
@@ -21,7 +24,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Yaseen, welcome to my GitHub Repository, I'm a Android & iOS Developer, Programmer, I can also do Game Designing and Development, you can also check my profile links for more that are given below.
+I am Yaseen, welcome to my GitHub Repository, I'm an Android & iOS Developer, Programmer, I can also do Game Designing and Development, you can also check my profile links for more that are given below.
 
 <table style="border:0px;">
 	<tr>
@@ -29,7 +32,7 @@ I am Yaseen, welcome to my GitHub Repository, I'm a Android & iOS Developer, Pro
 		<img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" alt="Coder GIF" width="300" height="250">
 		</td>
 		<td>
-      <p align="left"> <img src="https://komarev.com/ghpvc/?username=Yasen549" alt="Yaseen549" /> </p>
+      		<p align="left"> <img src="https://komarev.com/ghpvc/?username=Yasen549" alt="Yaseen549" /> </p>
 		</td>
 	</tr>
 </table>
