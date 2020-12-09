@@ -89,7 +89,8 @@ I am Yaseen, welcome to my GitHub Repository, I'm an Android & iOS Developer, Pr
 
 ### My Portfolio- 
 
-[<img src="https://img.shields.io/badge/Check_Out-My_Website-FCE303" />](https://yaseen.netlify.com)<img src="https://github.com/Yaseen549/Yaseen549/blob/main/live.gif" alt="Coder GIF" width="23" height="23">
+
+[<img src="https://img.shields.io/badge/-My_Website-000000?style=social&logo=google" />](https://yaseen.netlify.com)<img src="https://github.com/Yaseen549/Yaseen549/blob/main/live.gif" alt="Coder GIF" width="23" height="23">
 
 ### Frameworks and Stack
 ![Flutter](https://img.shields.io/badge/-Flutter-blue?style=for-the-badge&logo=flutter)
@@ -102,13 +103,11 @@ I am Yaseen, welcome to my GitHub Repository, I'm an Android & iOS Developer, Pr
 ![javascript](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=javascript)
 ![javascript](https://img.shields.io/badge/-Express.js-black?style=for-the-badge&logo=javascript)
 
-
-
 ### Gaming Engines
 ![Unity3D](https://img.shields.io/badge/-Unity3D-black?style=for-the-badge&logo=unity)
 ![UnrealEngine](https://img.shields.io/badge/-UnrealEngine-orange?style=for-the-badge&logo=unrealengine)
 ![Construct 2](https://img.shields.io/badge/-Construct_2-000000?style=for-the-badge&logo=construct)
-![GodotEngine](https://img.shields.io/badge/-GodotEngine-000000?style=for-the-badge&logo=godotengine)
+![GodotEngine](https://img.shields.io/badge/-Godot_Engine-000000?style=for-the-badge&logo=godotengine)
 
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-F7F7F7?style=for-the-badge&logo=Python)
