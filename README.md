@@ -115,16 +115,15 @@ I am Yaseen, welcome to my GitHub Repository, I'm an Android & iOS Developer, Pr
 ![Java](https://img.shields.io/badge/-java-F09522?style=for-the-badge&logo=java)
 ![Dart](https://img.shields.io/badge/-Dart-152030?style=for-the-badge&logo=Dart)
 ![C](https://img.shields.io/badge/-C-3D46C6?style=for-the-badge&logo=c)
-![php](https://img.shields.io/badge/-php-black?style=for-the-badge&logo=php)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
 
+![php](https://img.shields.io/badge/-php-black?style=for-the-badge&logo=php)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=JavaScript)
 ![jQuery](https://img.shields.io/badge/-jQuery-blue?style=for-the-badge&logo=jQuery)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=TypeScript)
 ![C++](https://img.shields.io/badge/-C++-00427E?style=for-the-badge&logo=c)
-![MySql](https://img.shields.io/badge/-MySql-F7F7F7?style=for-the-badge&logo=MySql)
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
+![MySql](https://img.shields.io/badge/-MySql-orange?style=for-the-badge&logo=MySql)
 
 ### Tools
 ![Netlify](https://img.shields.io/badge/-Netlify-black?style=for-the-badge&logo=Netlify)
