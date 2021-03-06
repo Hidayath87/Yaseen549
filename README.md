@@ -102,7 +102,8 @@ I am Yaseen, welcome to my GitHub Repository, I'm an Android & iOS Developer, Pr
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
 ![MySQL](https://img.shields.io/badge/-MySQL-pink?style=for-the-badge&logo=mysql)
 ![javascript](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=javascript)
-![javascript](https://img.shields.io/badge/-Express.js-black?style=for-the-badge&logo=javascript)
+
+![.Net](https://img.shields.io/badge/-.Net-672A7A?style=for-the-badge&logo=.Net)<img src="https://ugcnet.nta.nic.in/webinfo/Content/img/newicon.gif">
 
 ### Gaming Engines
 ![Unity3D](https://img.shields.io/badge/-Unity3D-black?style=for-the-badge&logo=unity)
@@ -122,6 +123,7 @@ I am Yaseen, welcome to my GitHub Repository, I'm an Android & iOS Developer, Pr
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=JavaScript)
 ![jQuery](https://img.shields.io/badge/-jQuery-blue?style=for-the-badge&logo=jQuery)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=TypeScript)
+![C++](https://img.shields.io/badge/-C++-00427E?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/-C++-00427E?style=for-the-badge&logo=c)
 ![MySql](https://img.shields.io/badge/-MySql-orange?style=for-the-badge&logo=MySql)
 
