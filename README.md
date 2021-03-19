@@ -85,6 +85,10 @@ I am Yaseen, welcome to my GitHub Repository, I'm an Android & iOS Developer, Pr
 [<img src="https://img.shields.io/badge/-Apple_iOS-000000?style=social&logo=iOS" />](#)
 -->
 
+### Linux Flavours <img src="https://ugcnet.nta.nic.in/webinfo/Content/img/newicon.gif">
+
+<img src="https://img.icons8.com/color/48/000000/linux.png"/> <img src="https://img.icons8.com/emoji/50/000000/parrot-emoji.png"/> <img src="https://img.icons8.com/color/48/000000/ubuntu.png"/> <img src="https://img.icons8.com/color/48/000000/kali-linux.png"/> <img src="https://img.icons8.com/color/48/000000/red-hat.png"/> <img src="https://img.icons8.com/color/48/000000/debian.png"/> <img src="https://img.icons8.com/color/48/000000/centos.png"/> 
+
 
 ### My Portfolio- 
 
@@ -111,7 +115,7 @@ I am Yaseen, welcome to my GitHub Repository, I'm an Android & iOS Developer, Pr
 ![Construct 2](https://img.shields.io/badge/-Construct_2-000000?style=for-the-badge&logo=construct)
 ![GodotEngine](https://img.shields.io/badge/-Godot_Engine-000000?style=for-the-badge&logo=godotengine)
 
-<img src="https://img.icons8.com/color/48/000000/unreal-engine.png"/> <img src="https://img.icons8.com/ios-filled/64/000000/unity.png"/> <img src="https://img.icons8.com/color/48/000000/game-maker.png"/>
+<img src="https://img.icons8.com/color/48/000000/unreal-engine.png"/> <img src="https://img.icons8.com/ios-filled/64/000000/unity.png" width="50px" height="50px"/> <img src="https://img.icons8.com/color/48/000000/game-maker.png"/> <img src="https://ugcnet.nta.nic.in/webinfo/Content/img/newicon.gif">
 
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-F7F7F7?style=for-the-badge&logo=Python)
@@ -151,6 +155,10 @@ I am Yaseen, welcome to my GitHub Repository, I'm an Android & iOS Developer, Pr
 ### IDE's working with
 
 <img height="50" src="https://img.icons8.com/color/344/intellij-idea.png"> <img height="50" src="https://img.icons8.com/color/344/pycharm.png"> <img height="50" src="https://img.icons8.com/color/344/visual-studio-2019.png"> <img height="50" src="https://img.icons8.com/color/344/visual-studio-code-2019.png"> <img src="https://img.icons8.com/officexs/50/000000/java-eclipse.png" /> <img src="https://img.icons8.com/fluent/50/000000/adobe-photoshop.png"/> <img src="https://img.icons8.com/color/48/000000/adobe-illustrator.png"/> <img src="https://img.icons8.com/color/48/000000/adobe-after-effects.png"/> <img src="https://img.icons8.com/color/48/000000/adobe-indesign.png"/> <img src="https://img.icons8.com/color/48/000000/adobe-dreamweaver.png"/> <img src="https://img.icons8.com/color/48/000000/adobe-premiere-pro.png"/>  <img src="https://img.icons8.com/fluent/48/000000/adobe-animate.png"/> <img src="https://img.icons8.com/fluent/48/000000/android-os.png"/> 
+
+### Virtual Environments
+
+<img src="https://img.icons8.com/color/48/000000/old-vmware-logo.png"/> <img src="https://img.icons8.com/color/48/000000/virtualbox.png"/>
 
 
 <table>
