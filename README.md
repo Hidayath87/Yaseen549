@@ -48,7 +48,7 @@ I am Yaseen, welcome to my GitHub Repository, I'm an Android & iOS Developer, Pr
 [<img src="https://img.shields.io/badge/-Instagram-000000?style=social&logo=instagram" />](https://www.instagram.com/syberstar_picture_studio/)
 [<img src="https://img.shields.io/badge/-Repl.it-000000?style=social&logo=repl.it" />](https://repl.it/@Yaseen59)
 
-[<img src="https://img.shields.io/badge/-HackerRank-000000?style=social&logo=hackerrank" />](https://www.hackerrank.com/Yaseen59)<sup><img src="https://ugcnet.nta.nic.in/webinfo/Content/img/newicon.gif"></sup>
+[<img src="https://img.shields.io/badge/-HackerRank-000000?style=social&logo=hackerrank" />](https://www.hackerrank.com/Yaseen59)
 [<img src="https://img.shields.io/badge/-Twitter-000000?style=social&logo=twitter" />](https://twitter.com/yaseen_sheriff) 
 [<img src="https://img.shields.io/badge/-Dribbble-000000?style=social&logo=dribbble" />](https://dribbble.com/Yaseen59) 
 [<img src="https://img.shields.io/badge/-Behance-000000?style=social&logo=behance" />](https://www.behance.net/yaseen59)
@@ -86,8 +86,6 @@ I am Yaseen, welcome to my GitHub Repository, I'm an Android & iOS Developer, Pr
 -->
 
 
-
-
 ### My Portfolio- 
 
 [<img src="https://img.shields.io/badge/-My_Website-000000?style=social&logo=google"/>](https://yaseen.netlify.com)
@@ -105,7 +103,7 @@ I am Yaseen, welcome to my GitHub Repository, I'm an Android & iOS Developer, Pr
 ![javascript](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=javascript)
 ![.Net](https://img.shields.io/badge/-.Net-672A7A?style=for-the-badge&logo=.Net)
 
-<img src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> <img src="https://img.icons8.com/color/48/000000/npm.png"/> <img src="https://img.icons8.com/color/48/000000/flutter.png"/> 
+<img src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> <img src="https://img.icons8.com/color/48/000000/npm.png"/> <img src="https://img.icons8.com/color/48/000000/flutter.png"/> <img src="https://img.icons8.com/color/48/000000/cloudflare.png"/>
 
 ### Gaming Engines
 ![Unity3D](https://img.shields.io/badge/-Unity3D-black?style=for-the-badge&logo=unity)
@@ -133,6 +131,8 @@ I am Yaseen, welcome to my GitHub Repository, I'm an Android & iOS Developer, Pr
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=MongoDB)
 
+<img src="https://img.icons8.com/color/48/000000/typescript.png"/> 
+
 ### Tools
 ![Netlify](https://img.shields.io/badge/-Netlify-black?style=for-the-badge&logo=Netlify)
 ![Vercel](https://img.shields.io/badge/-Vercel-blue?style=for-the-badge&logo=Vercel)
@@ -148,7 +148,7 @@ I am Yaseen, welcome to my GitHub Repository, I'm an Android & iOS Developer, Pr
 ![Android](https://img.shields.io/badge/-AndroidStudio-green?style=for-the-badge&logo=Android)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-2684FF?style=for-the-badge&logo=bitbucket)
 
-### IDE's I work with
+### IDE's working with
 
 <img height="50" src="https://img.icons8.com/color/344/intellij-idea.png"> <img height="50" src="https://img.icons8.com/color/344/pycharm.png"> <img height="50" src="https://img.icons8.com/color/344/visual-studio-2019.png"> <img height="50" src="https://img.icons8.com/color/344/visual-studio-code-2019.png"> <img src="https://img.icons8.com/officexs/50/000000/java-eclipse.png" /> <img src="https://img.icons8.com/fluent/50/000000/adobe-photoshop.png"/> <img src="https://img.icons8.com/color/48/000000/adobe-illustrator.png"/> <img src="https://img.icons8.com/color/48/000000/adobe-after-effects.png"/> <img src="https://img.icons8.com/color/48/000000/adobe-indesign.png"/> <img src="https://img.icons8.com/color/48/000000/adobe-dreamweaver.png"/> <img src="https://img.icons8.com/color/48/000000/adobe-premiere-pro.png"/>  <img src="https://img.icons8.com/fluent/48/000000/adobe-animate.png"/> <img src="https://img.icons8.com/fluent/48/000000/android-os.png"/> 
 
