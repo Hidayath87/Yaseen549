@@ -47,6 +47,10 @@ I am Yaseen, welcome to my GitHub Repository, I'm an Android & iOS Developer, Pr
 [<img src="https://img.shields.io/badge/-Medium-000000?style=social&logo=medium" />](https://medium.com/@yaseen59)
 [<img src="https://img.shields.io/badge/-Instagram-000000?style=social&logo=instagram" />](https://www.instagram.com/syberstar_picture_studio/)
 [<img src="https://img.shields.io/badge/-Repl.it-000000?style=social&logo=repl.it" />](https://repl.it/@Yaseen59)
+[<img src="https://img.shields.io/badge/-hashnode-000000?style=social&logo=hashnode" />](https://yaseen.hashnode.dev/)
+[<img src="https://img.shields.io/badge/-dev.to-000000?style=social&logo=dev.to" />](https://dev.to/yaseen)
+
+
 
 [<img src="https://img.shields.io/badge/-HackerRank-000000?style=social&logo=hackerrank" />](https://www.hackerrank.com/Yaseen59)
 [<img src="https://img.shields.io/badge/-Twitter-000000?style=social&logo=twitter" />](https://twitter.com/yaseen_sheriff) 
@@ -55,6 +59,9 @@ I am Yaseen, welcome to my GitHub Repository, I'm an Android & iOS Developer, Pr
 [<img src="https://img.shields.io/badge/-Discord-000000?style=social&logo=discord" />](https://discord.gg/68KtaDrfqr)
 [<img src="https://img.shields.io/badge/-StackOverflow-000000?style=social&logo=stackoverflow" />](https://stackoverflow.com/users/12053270/)
 [<img src="https://img.shields.io/badge/-Reddit-000000?style=social&logo=reddit" />](https://www.reddit.com/user/Yaseen549)
+
+
+
 
 
 <!--[![Discord](https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/pkKsNfJT) -->
