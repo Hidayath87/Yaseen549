@@ -93,7 +93,8 @@ I am Yaseen, welcome to my GitHub Repository, I'm an Android & iOS Developer, Pr
 [<img src="https://img.shields.io/badge/-My_Website-000000?style=social&logo=google"/>](https://yaseen.netlify.com)
 [<img src="https://github.com/Yaseen549/Yaseen549/blob/main/live.gif" alt="Coder GIF" width="23" height="23">](https://yaseen.netlify.com)
 
-### Frameworks and Stack
+### Frameworks, Stack and Libraries <img src="https://ugcnet.nta.nic.in/webinfo/Content/img/newicon.gif">
+
 ![Flutter](https://img.shields.io/badge/-Flutter-blue?style=for-the-badge&logo=flutter)
 ![Android](https://img.shields.io/badge/-Android-green?style=for-the-badge&logo=android)
 ![iOS](https://img.shields.io/badge/-iOS-C0C0C0?style=for-the-badge&logo=apple)
@@ -102,14 +103,17 @@ I am Yaseen, welcome to my GitHub Repository, I'm an Android & iOS Developer, Pr
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
 ![MySQL](https://img.shields.io/badge/-MySQL-pink?style=for-the-badge&logo=mysql)
 ![javascript](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=javascript)
+![.Net](https://img.shields.io/badge/-.Net-672A7A?style=fo r-the-badge&logo=.Net)
 
-![.Net](https://img.shields.io/badge/-.Net-672A7A?style=for-the-badge&logo=.Net)<img src="https://ugcnet.nta.nic.in/webinfo/Content/img/newicon.gif">
+<img src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> <img src="https://img.icons8.com/color/48/000000/npm.png"/> <img src="https://img.icons8.com/color/48/000000/flutter.png"/> 
 
 ### Gaming Engines
 ![Unity3D](https://img.shields.io/badge/-Unity3D-black?style=for-the-badge&logo=unity)
 ![UnrealEngine](https://img.shields.io/badge/-UnrealEngine-orange?style=for-the-badge&logo=unrealengine)
 ![Construct 2](https://img.shields.io/badge/-Construct_2-000000?style=for-the-badge&logo=construct)
 ![GodotEngine](https://img.shields.io/badge/-Godot_Engine-000000?style=for-the-badge&logo=godotengine)
+
+<img src="https://img.icons8.com/color/48/000000/unreal-engine.png"/> <img src="https://img.icons8.com/ios-filled/64/000000/unity.png"/> <img src="https://img.icons8.com/color/48/000000/game-maker.png"/>
 
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-F7F7F7?style=for-the-badge&logo=Python)
@@ -144,6 +148,9 @@ I am Yaseen, welcome to my GitHub Repository, I'm an Android & iOS Developer, Pr
 ![Android](https://img.shields.io/badge/-AndroidStudio-green?style=for-the-badge&logo=Android)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-2684FF?style=for-the-badge&logo=bitbucket)
 
+### IDE's I work with
+
+<img height="50" src="https://img.icons8.com/color/344/intellij-idea.png"> <img height="50" src="https://img.icons8.com/color/344/pycharm.png"> <img height="50" src="https://img.icons8.com/color/344/visual-studio-2019.png"> <img height="50" src="https://img.icons8.com/color/344/visual-studio-code-2019.png"> <img src="https://img.icons8.com/officexs/50/000000/java-eclipse.png" /> <img src="https://img.icons8.com/fluent/50/000000/adobe-photoshop.png"/> <img src="https://img.icons8.com/color/48/000000/adobe-illustrator.png"/> <img src="https://img.icons8.com/color/48/000000/adobe-after-effects.png"/> <img src="https://img.icons8.com/color/48/000000/adobe-indesign.png"/> <img src="https://img.icons8.com/color/48/000000/adobe-dreamweaver.png"/> <img src="https://img.icons8.com/color/48/000000/adobe-premiere-pro.png"/>  <img src="https://img.icons8.com/fluent/48/000000/adobe-animate.png"/> <img src="https://img.icons8.com/fluent/48/000000/android-os.png"/> 
 
 
 <table>
