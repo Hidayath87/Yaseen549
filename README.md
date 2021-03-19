@@ -103,7 +103,7 @@ I am Yaseen, welcome to my GitHub Repository, I'm an Android & iOS Developer, Pr
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
 ![MySQL](https://img.shields.io/badge/-MySQL-pink?style=for-the-badge&logo=mysql)
 ![javascript](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=javascript)
-![.Net](https://img.shields.io/badge/-.Net-672A7A?style=fo r-the-badge&logo=.Net)
+![.Net](https://img.shields.io/badge/-.Net-672A7A?style=for-the-badge&logo=.Net)
 
 <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> <img src="https://img.icons8.com/color/48/000000/npm.png"/> <img src="https://img.icons8.com/color/48/000000/flutter.png"/> 
 
