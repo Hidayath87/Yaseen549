@@ -22,20 +22,21 @@ Here are some ideas to get you started:
 
 I am Yaseen, welcome to my GitHub Repository, I'm an Android & iOS Developer, Programmer, I can also do Game Designing and Development, you can also check my profile links for more that are given below.
 
-<table style="border:0px;">
+<!--<table style="border:0px;">
 	<tr>
 		<td>
-		<img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" alt="Coder GIF" width="300" height="250">
+		
 		</td>
 		<td>
-      		<p align="left"> <img src="https://komarev.com/ghpvc/?username=Yasen549" alt="Yaseen549" /> </p>
+      		<p align="left"></p>
 		</td>
 	</tr>
-</table>
+</table> -->
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Yaseen549)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yaseen549&hide=TeX&layout=compact&count_private=true)
+<img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" alt="Coder GIF" width="300" height="250"> <img src="https://komarev.com/ghpvc/?username=Yasen549" alt="Yaseen549" /> 
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=Yaseen549)    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yaseen549&hide=TeX&layout=compact&count_private=true)
 
 ### Connect with me on -  
 
@@ -131,7 +132,6 @@ I am Yaseen, welcome to my GitHub Repository, I'm an Android & iOS Developer, Pr
 ![C](https://img.shields.io/badge/-C-3D46C6?style=for-the-badge&logo=c)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
-
 ![php](https://img.shields.io/badge/-php-black?style=for-the-badge&logo=php)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=JavaScript)
 ![jQuery](https://img.shields.io/badge/-jQuery-blue?style=for-the-badge&logo=jQuery)
@@ -139,7 +139,6 @@ I am Yaseen, welcome to my GitHub Repository, I'm an Android & iOS Developer, Pr
 ![C++](https://img.shields.io/badge/-C++-00427E?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/-C++-00427E?style=for-the-badge&logo=c)
 ![MySql](https://img.shields.io/badge/-MySql-orange?style=for-the-badge&logo=MySql)
-
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=MongoDB)
 
 <img src="https://img.icons8.com/color/48/000000/typescript.png"/> 
