@@ -1,9 +1,8 @@
-### Hey Visitor <img src="https://media.giphy.com/media/1oErlCqmxFX54gsxrB/giphy.gif" alt="Coder GIF" width="40" height="40"> 
-
-
+### Hey Visitor 🖐🏻
 
 <!--
 
+<img src="https://media.giphy.com/media/1oErlCqmxFX54gsxrB/giphy.gif" alt="Coder GIF" width="40" height="40"> 
 
 <img src="https://media.giphy.com/media/Veq8KumKpSCcfZ71P1/giphy.gif" alt="Coder GIF" width="23" height="23">
 
