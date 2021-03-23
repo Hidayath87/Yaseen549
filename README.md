@@ -38,6 +38,9 @@ I am Yaseen, welcome to my GitHub Repository, I'm an Android & iOS Developer, Pr
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Yaseen549)    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yaseen549&hide=TeX&layout=compact&count_private=true)
 
+
+<p><span align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://yaseen.netlify.com"><img src="https://github-profile-trophy.vercel.app/?username=Yaseen549&amp;margin-w=15&amp;column=6&amp;row=3" alt="trophy" data-canonical-src="https://github-profile-trophy.vercel.app/?username=Yaseen549&amp;margin-w=15&amp;column=6&amp;row=3" style="max-width:100%;"></a></span></p>
+
 ### Connect with me on -  
 
 <!-- [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/yaseen59/) -->
@@ -194,8 +197,6 @@ Social Engagement
 [<img src="https://img.shields.io/youtube/likes/Gyt-0e6wobk?style=social&withDislikes" />](https://twitter.com/yaseen_sheriff) 
 
 --->
-
-<p><span align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img src="https://github-profile-trophy.vercel.app/?username=Yaseen549&amp;margin-w=15&amp;column=6&amp;row=3" alt="trophy" data-canonical-src="https://github-profile-trophy.vercel.app/?username=Yaseen549&amp;margin-w=15&amp;column=6&amp;row=3" style="max-width:100%;"></a></span></p>
 
 
 ### 🧡 Support:
