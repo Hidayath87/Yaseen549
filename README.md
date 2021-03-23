@@ -41,7 +41,7 @@ I am Yaseen, welcome to my GitHub Repository, I'm an Android & iOS Developer, Pr
 
 <p><span align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://yaseen.netlify.com"><img src="https://github-profile-trophy.vercel.app/?username=Yaseen549&amp;margin-w=15&amp;column=6&amp;row=3" alt="trophy" data-canonical-src="https://github-profile-trophy.vercel.app/?username=Yaseen549&amp;margin-w=15&amp;column=6&amp;row=3" style="max-width:100%;"></a></span></p>
 
-### Connect with me on -  
+### Connect & Contact Point  
 
 <!-- [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/yaseen59/) -->
 [<img src="https://img.shields.io/badge/-LinkedIn-000000?style=social&logo=linkedin" />](https://www.linkedin.com/in/yaseen59/) 
@@ -52,7 +52,7 @@ I am Yaseen, welcome to my GitHub Repository, I'm an Android & iOS Developer, Pr
 [<img src="https://img.shields.io/badge/-Instagram-000000?style=social&logo=instagram" />](https://www.instagram.com/syberstar_picture_studio/)
 [<img src="https://img.shields.io/badge/-Repl.it-000000?style=social&logo=repl.it" />](https://repl.it/@Yaseen59)
 [<img src="https://img.shields.io/badge/-hashnode-000000?style=social&logo=hashnode" />](https://yaseen.hashnode.dev/)
-[<img src="https://img.shields.io/badge/-dev.to-000000?style=social&logo=dev.to" />](https://dev.to/yaseen)
+[<img src="https://img.shields.io/badge/-dev.to-000000?style=social&logo=dev.to" />](https://dev.to/yaseen) <sup><img src="https://ugcnet.nta.nic.in/webinfo/Content/img/newicon.gif"></sup>
 
 
 
@@ -138,13 +138,12 @@ I am Yaseen, welcome to my GitHub Repository, I'm an Android & iOS Developer, Pr
 ![php](https://img.shields.io/badge/-php-black?style=for-the-badge&logo=php)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=JavaScript)
 ![jQuery](https://img.shields.io/badge/-jQuery-blue?style=for-the-badge&logo=jQuery)
-![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=TypeScript)
 ![C++](https://img.shields.io/badge/-C++-00427E?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/-C++-00427E?style=for-the-badge&logo=c)
 ![MySql](https://img.shields.io/badge/-MySql-orange?style=for-the-badge&logo=MySql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=MongoDB)
 
-<img src="https://img.icons8.com/color/48/000000/typescript.png"/> 
+<img src="https://img.icons8.com/color/48/000000/typescript.png"/> ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=TypeScript)
 
 ### Tools
 ![Netlify](https://img.shields.io/badge/-Netlify-black?style=for-the-badge&logo=Netlify)
