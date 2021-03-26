@@ -108,24 +108,25 @@ I am Yaseen, welcome to my GitHub Repository, I'm an Android & iOS Developer, Pr
 
 ### Frameworks, Stack and Libraries <img src="https://ugcnet.nta.nic.in/webinfo/Content/img/newicon.gif">
 
-![Flutter](https://img.shields.io/badge/-Flutter-blue?style=for-the-badge&logo=flutter)
-![Android](https://img.shields.io/badge/-Android-green?style=for-the-badge&logo=android)
-![iOS](https://img.shields.io/badge/-iOS-C0C0C0?style=for-the-badge&logo=apple)
-![Flask](https://img.shields.io/badge/-Flask-blue?style=for-the-badge&logo=Flask)
+[![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=Flutter&logoColor=ffffff)](https://flutter.dev/)
+[![Android](https://img.shields.io/badge/-Android-green?style=flat-square&logo=Android&logoColor=ffffff)](https://developer.android.com/studio)
+[![iOS](https://img.shields.io/badge/-iOS-C0C0C0?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/)
+[![Flask](https://img.shields.io/badge/-Flask-blue?style=flat-square&logo=Flask&logoColor=ffffff)](https://flask.palletsprojects.com/en/1.1.x/)
 
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
-![MySQL](https://img.shields.io/badge/-MySQL-pink?style=for-the-badge&logo=mysql)
-![javascript](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=javascript)
-![.Net](https://img.shields.io/badge/-.Net-672A7A?style=for-the-badge&logo=.Net)
-![PyPI](https://img.shields.io/badge/-PyPI-black?style=for-the-badge&logo=PyPI)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap&logoColor=ffffff)](https://getbootstrap.com/)
+[![MySQL](https://img.shields.io/badge/-MySQL-pink?style=flat-square&logo=MySQL&logoColor=ffffff)](https://www.mysql.com/)
+[![javascript](https://img.shields.io/badge/-javascript-black?style=flat-square&logo=javascript&logoColor=ffffff)](https://www.javascript.com/)
+[![.Net](https://img.shields.io/badge/-.Net-672A7A?style=flat-square&logo=.Net&logoColor=ffffff)](https://dotnet.microsoft.com/apps/aspnet)
+[![PyPI](https://img.shields.io/badge/-PyPI-black?style=flat-square&logo=PyPI&logoColor=ffffff)](https://pypi.org/user/yaseen59/)
+
 
 <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> <img src="https://img.icons8.com/color/48/000000/npm.png"/> <img src="https://img.icons8.com/color/48/000000/flutter.png"/> <img src="https://img.icons8.com/color/48/000000/cloudflare.png"/>
 
 ### Gaming Engines
-![Unity3D](https://img.shields.io/badge/-Unity3D-black?style=for-the-badge&logo=unity)
-![UnrealEngine](https://img.shields.io/badge/-UnrealEngine-orange?style=for-the-badge&logo=unrealengine)
-![Construct 2](https://img.shields.io/badge/-Construct_2-000000?style=for-the-badge&logo=construct)
-![GodotEngine](https://img.shields.io/badge/-Godot_Engine-000000?style=for-the-badge&logo=godotengine)
+[![Unity3D](https://img.shields.io/badge/-Unity3D-000000?style=flat-square&logo=Unity&logoColor=ffffff)](https://unity.com/)
+[![UnrealEngine](https://img.shields.io/badge/-UnrealEngine-orange?style=flat-square&logo=unrealengine&logoColor=ffffff)](https://www.unrealengine.com/en-US/)
+[![Construct2](https://img.shields.io/badge/-Construct2-000000?style=flat-square&logo=Construct2&logoColor=ffffff)](https://www.construct.net/en/construct-2/download)
+[![GodotEngine](https://img.shields.io/badge/-GodotEngine-000000?style=flat-square&logo=GodotEngine&logoColor=ffffff)](https://godotengine.org/)
 
 <img src="https://img.icons8.com/color/48/000000/unreal-engine.png"/> <img src="https://img.icons8.com/ios-filled/64/000000/unity.png" width="50px" height="50px"/> <img src="https://img.icons8.com/color/48/000000/game-maker.png"/> <img src="https://ugcnet.nta.nic.in/webinfo/Content/img/newicon.gif">
 
