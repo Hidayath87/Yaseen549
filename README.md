@@ -52,9 +52,7 @@ I am Yaseen, welcome to my GitHub Repository, I'm an Android & iOS Developer, Pr
 [<img src="https://img.shields.io/badge/-Instagram-000000?style=social&logo=instagram" />](https://www.instagram.com/syberstar_picture_studio/)
 [<img src="https://img.shields.io/badge/-Repl.it-000000?style=social&logo=repl.it" />](https://repl.it/@Yaseen59)
 [<img src="https://img.shields.io/badge/-hashnode-000000?style=social&logo=hashnode" />](https://yaseen.hashnode.dev/)
-[<img src="https://img.shields.io/badge/-dev.to-000000?style=social&logo=dev.to" />](https://dev.to/yaseen) <sup><img src="https://ugcnet.nta.nic.in/webinfo/Content/img/newicon.gif"></sup>
-
-
+[<img src="https://img.shields.io/badge/-dev.to-000000?style=social&logo=dev.to" />](https://dev.to/yaseen) 
 
 [<img src="https://img.shields.io/badge/-HackerRank-000000?style=social&logo=hackerrank" />](https://www.hackerrank.com/Yaseen59)
 [<img src="https://img.shields.io/badge/-Twitter-000000?style=social&logo=twitter" />](https://twitter.com/yaseen_sheriff) 
@@ -63,6 +61,7 @@ I am Yaseen, welcome to my GitHub Repository, I'm an Android & iOS Developer, Pr
 [<img src="https://img.shields.io/badge/-Discord-000000?style=social&logo=discord" />](https://discord.gg/68KtaDrfqr)
 [<img src="https://img.shields.io/badge/-StackOverflow-000000?style=social&logo=stackoverflow" />](https://stackoverflow.com/users/12053270/)
 [<img src="https://img.shields.io/badge/-Reddit-000000?style=social&logo=reddit" />](https://www.reddit.com/user/Yaseen549)
+[<img src="https://img.shields.io/badge/-patreon-000000?style=social&logo=patreon" />](https://www.reddit.com/user/Yaseen549) <sup><img src="https://ugcnet.nta.nic.in/webinfo/Content/img/newicon.gif"></sup>
 
 
 
@@ -96,7 +95,7 @@ I am Yaseen, welcome to my GitHub Repository, I'm an Android & iOS Developer, Pr
 [<img src="https://img.shields.io/badge/-Apple_iOS-000000?style=social&logo=iOS" />](#)
 -->
 
-### Linux Flavours <img src="https://ugcnet.nta.nic.in/webinfo/Content/img/newicon.gif">
+### Linux Flavours
 
 <img src="https://img.icons8.com/color/48/000000/linux.png"/> <img src="https://img.icons8.com/emoji/50/000000/parrot-emoji.png"/> <img src="https://img.icons8.com/color/48/000000/ubuntu.png"/> <img src="https://img.icons8.com/color/48/000000/kali-linux.png"/> <img src="https://img.icons8.com/color/48/000000/red-hat.png"/> <img src="https://img.icons8.com/color/48/000000/debian.png"/> <img src="https://img.icons8.com/color/48/000000/centos.png"/> 
 
@@ -106,7 +105,7 @@ I am Yaseen, welcome to my GitHub Repository, I'm an Android & iOS Developer, Pr
 [<img src="https://img.shields.io/badge/-My_Website-000000?style=social&logo=google"/>](https://yaseen.netlify.com)
 [<img src="https://github.com/Yaseen549/Yaseen549/blob/main/live.gif" alt="Coder GIF" width="23" height="23">](https://yaseen.netlify.com)
 
-### Frameworks, Stack and Libraries <img src="https://ugcnet.nta.nic.in/webinfo/Content/img/newicon.gif">
+### Frameworks, Stack and Libraries
 
 [![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=Flutter&logoColor=ffffff)](https://flutter.dev/)
 [![Android](https://img.shields.io/badge/-Android-green?style=flat-square&logo=Android&logoColor=ffffff)](https://developer.android.com/studio)
@@ -130,7 +129,7 @@ I am Yaseen, welcome to my GitHub Repository, I'm an Android & iOS Developer, Pr
 ![Construct 2](https://img.shields.io/badge/-Construct_2-000000?style=for-the-badge&logo=construct)
 ![GodotEngine](https://img.shields.io/badge/-Godot_Engine-000000?style=for-the-badge&logo=godotengine)
 
-<img src="https://img.icons8.com/color/48/000000/unreal-engine.png"/> <img src="https://img.icons8.com/ios-filled/64/000000/unity.png" width="50px" height="50px"/> <img src="https://img.icons8.com/color/48/000000/game-maker.png"/> <img src="https://ugcnet.nta.nic.in/webinfo/Content/img/newicon.gif">
+<img src="https://img.icons8.com/color/48/000000/unreal-engine.png"/> <img src="https://img.icons8.com/ios-filled/64/000000/unity.png" width="50px" height="50px"/> <img src="https://img.icons8.com/color/48/000000/game-maker.png"/>
 
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-F7F7F7?style=for-the-badge&logo=Python)
