@@ -111,24 +111,24 @@ I am Yaseen, welcome to my GitHub Repository, I'm an Android & iOS Developer, Pr
 [![Android](https://img.shields.io/badge/-Android-green?style=flat-square&logo=Android&logoColor=ffffff)](https://developer.android.com/studio)
 [![iOS](https://img.shields.io/badge/-iOS-C0C0C0?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/)
 [![Flask](https://img.shields.io/badge/-Flask-blue?style=flat-square&logo=Flask&logoColor=ffffff)](https://flask.palletsprojects.com/en/1.1.x/)
+[![D3JS](https://img.shields.io/badge/-D3.js-orange?style=flat-square&logo=d3.js&logoColor=ffffff)](https://d3js.org/)
 
+[![.Net](https://img.shields.io/badge/-.Net-4E2ACD?style=flat-square&logo=.Net&logoColor=ffffff)](https://dotnet.microsoft.com/apps/aspnet)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap&logoColor=ffffff)](https://getbootstrap.com/)
-[![MySQL](https://img.shields.io/badge/-MySQL-pink?style=flat-square&logo=MySQL&logoColor=ffffff)](https://www.mysql.com/)
-[![javascript](https://img.shields.io/badge/-javascript-black?style=flat-square&logo=javascript&logoColor=ffffff)](https://www.javascript.com/)
-[![.Net](https://img.shields.io/badge/-.Net-672A7A?style=flat-square&logo=.Net&logoColor=ffffff)](https://dotnet.microsoft.com/apps/aspnet)
-[![PyPI](https://img.shields.io/badge/-PyPI-black?style=flat-square&logo=PyPI&logoColor=ffffff)](https://pypi.org/user/yaseen59/)
+[![MySQL](https://img.shields.io/badge/-MySQL-F7F7F7?style=flat-square&logo=MySQL&logoColor=000000)](https://www.mysql.com/)
+[![PyPI](https://img.shields.io/badge/-PyPI-0073B7?style=flat-square&logo=PyPI&logoColor=ffffff)](https://pypi.org/user/yaseen59/)
 
 
 <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> <img src="https://img.icons8.com/color/48/000000/npm.png"/> <img src="https://img.icons8.com/color/48/000000/flutter.png"/> <img src="https://img.icons8.com/color/48/000000/cloudflare.png"/>
 
 
 ### Gaming Engines
-
+<!--
 ![Unity3D](https://img.shields.io/badge/-Unity3D-black?style=for-the-badge&logo=unity)
 ![UnrealEngine](https://img.shields.io/badge/-UnrealEngine-orange?style=for-the-badge&logo=unrealengine)
 ![Construct 2](https://img.shields.io/badge/-Construct_2-000000?style=for-the-badge&logo=construct)
 ![GodotEngine](https://img.shields.io/badge/-Godot_Engine-000000?style=for-the-badge&logo=godotengine)
-
+-->
 <img src="https://img.icons8.com/color/48/000000/unreal-engine.png"/> <img src="https://img.icons8.com/ios-filled/64/000000/unity.png" width="50px" height="50px"/> <img src="https://img.icons8.com/color/48/000000/game-maker.png"/>
 
 ### Languages
@@ -139,11 +139,11 @@ I am Yaseen, welcome to my GitHub Repository, I'm an Android & iOS Developer, Pr
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
 ![php](https://img.shields.io/badge/-php-black?style=for-the-badge&logo=php)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=JavaScript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=ffffff)
 ![jQuery](https://img.shields.io/badge/-jQuery-blue?style=for-the-badge&logo=jQuery)
 ![C++](https://img.shields.io/badge/-C++-00427E?style=for-the-badge&logo=c)
 ![MySql](https://img.shields.io/badge/-MySql-orange?style=for-the-badge&logo=MySql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=MongoDB)
+![MongoDB](https://img.shields.io/badge/-MongoDB-F7F8F9?style=for-the-badge&logo=MongoDB)
 
 <img src="https://img.icons8.com/color/48/000000/typescript.png"/> ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=TypeScript)
 
