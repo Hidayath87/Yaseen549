@@ -61,7 +61,7 @@ I am Yaseen, welcome to my GitHub Repository, I'm an Android & iOS Developer, Pr
 [<img src="https://img.shields.io/badge/-Discord-000000?style=social&logo=discord" />](https://discord.gg/68KtaDrfqr)
 [<img src="https://img.shields.io/badge/-StackOverflow-000000?style=social&logo=stackoverflow" />](https://stackoverflow.com/users/12053270/)
 [<img src="https://img.shields.io/badge/-Reddit-000000?style=social&logo=reddit" />](https://www.reddit.com/user/Yaseen549)
-[<img src="https://img.shields.io/badge/-patreon-000000?style=social&logo=patreon" />](https://www.reddit.com/user/Yaseen549) <sup><img src="https://ugcnet.nta.nic.in/webinfo/Content/img/newicon.gif"></sup>
+[<img src="https://img.shields.io/badge/-patreon-000000?style=social&logo=patreon" />](https://www.patreon.com/user) <sup><img src="https://ugcnet.nta.nic.in/webinfo/Content/img/newicon.gif"></sup>
 
 
 
