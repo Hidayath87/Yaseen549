@@ -117,6 +117,7 @@ I am Yaseen, welcome to my GitHub Repository, I'm an Android & iOS Developer, Pr
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap&logoColor=ffffff)](https://getbootstrap.com/)
 [![MySQL](https://img.shields.io/badge/-MySQL-F7F7F7?style=flat-square&logo=MySQL&logoColor=000000)](https://www.mysql.com/)
 [![PyPI](https://img.shields.io/badge/-PyPI-0073B7?style=flat-square&logo=PyPI&logoColor=ffffff)](https://pypi.org/user/yaseen59/)
+![MongoDB](https://img.shields.io/badge/-MongoDB-F7F8F9?style=flat-square&logo=MongoDB)
 
 
 <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> <img src="https://img.icons8.com/color/48/000000/npm.png"/> <img src="https://img.icons8.com/color/48/000000/flutter.png"/> <img src="https://img.icons8.com/color/48/000000/cloudflare.png"/>
@@ -143,7 +144,8 @@ I am Yaseen, welcome to my GitHub Repository, I'm an Android & iOS Developer, Pr
 ![jQuery](https://img.shields.io/badge/-jQuery-blue?style=for-the-badge&logo=jQuery)
 ![C++](https://img.shields.io/badge/-C++-00427E?style=for-the-badge&logo=c)
 ![MySql](https://img.shields.io/badge/-MySql-orange?style=for-the-badge&logo=MySql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-F7F8F9?style=for-the-badge&logo=MongoDB)
+![RScript](https://img.shields.io/badge/R-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white)
+
 
 <img src="https://img.icons8.com/color/48/000000/typescript.png"/> ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=TypeScript)
 
